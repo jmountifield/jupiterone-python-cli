@@ -1,4 +1,4 @@
-# JupiterOne CLI Client
+# Unofficial JupiterOne CLI Client
 
 A command-line interface (CLI) client for interacting with the JupiterOne API. This tool allows you to execute J1QL queries against your JupiterOne account and output the results in JSON or CSV format.
 
