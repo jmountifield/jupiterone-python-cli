@@ -141,17 +141,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-### Overview of the README Structure:
-
-1. **Installation**: Instructions on how to install the CLI tool, including prerequisites.
-
-2. **Usage**: Detailed information on how to use the CLI, including command-line arguments and examples.
-
-3. **Testing**: Information on how to run the tests and check test coverage.
-
-4. **Contributing**: Guidelines for contributing to the project, including how to set up a development environment.
-
-5. **License**: Information about the licensing of the project.
-
-This `README.md` should provide users and developers with a comprehensive understanding of the CLI client, how to use it, and how to contribute to its development.
