@@ -1,0 +1,5 @@
+.DS_Store
+build/
+*__pycache__*
+.coverage
+jupiterone_cli.egg-info/
